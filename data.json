@@ -1,0 +1,80 @@
+{
+  "nom": "Thomas BOUVAIS",
+  "titre": "Développeur Web et Logiciel",
+  "contact": {
+    "telephone": "07 67 31 51 54",
+    "email": "thomas.bouvais@edu.univ-fcomte.fr",
+    "adresse": "21 rue sous les vignes 25 600 Sochaux"
+  },
+  "competences": {
+    "langages": ["Java", "Python", "SQL", "HTML", "CSS", "Javascript", "C"],
+    "modelisation": ["MCD", "MLD"],
+    "bureautique": ["Word/Libre Office", "Excel"]
+  },
+  "soft_skills": ["Curieux", "Pensée logique/analytique", "Calme et réfléchi", "Empathique"],
+  "langues": [
+    {"langue": "Anglais", "niveau": "C1+ Cambridge linguaskill (2021), A2 Cambridge english certificate (2018)"},
+    {"langue": "Allemand", "niveau": ""}
+  ],
+  "centres_interet": ["Piano (depuis 2017)", "Sport (tennis de table, badminton)"],
+  "formation": [
+    {
+      "date": "2022 - 2025",
+      "titre": "BUT (Bachelor Universitaire de Technologie) informatique",
+      "etablissement": "IUT Nord-Franche-Comté | Belfort",
+      "description": "Formation de 3 ans en développement d'applications informatiques, web et bases de données."
+    },
+    {
+      "date": "2020 - 2022",
+      "titre": "Tronc commun UTBM",
+      "etablissement": "Université de Technologie de Belfort-Montbéliard",
+      "description": "Cycle préparatoire intégré, formation scientifique, technique, communication et ouverture à la culture générale. Premier contact avec le monde industriel."
+    },
+    {
+      "date": "2020",
+      "titre": "Baccalauréat S/SVT mention bien - Spécialité ISN",
+      "etablissement": "Lycée Georges Cuvier | Montbéliard",
+      "description": "Obtention d'un baccalauréat général scientifique avec la spécialité ICN (Informatique et Création Numérique) en première puis ISN (Informatique et Science du Numérique) en terminale."
+    }
+  ],
+  "projets": [
+    {
+      "date": "Octobre 2023 - Février 2024",
+      "titre": "Balonu - Site web",
+      "technologies": ["HTML", "CSS", "Javascript", "MySQL", "Vue.js", "Node.js"],
+      "description": "Création d'un site web lié à une base de données sur le thème des montgolfières.",
+      "project_link": "#",
+      "code_source": "#"
+    },
+    {
+      "date": "(Mars - Juin) 2023",
+      "titre": "Quoridor - Jeu de stratégie",
+      "technologies": ["Java", "JavaFX"],
+      "description": "Développement d'un jeu de stratégie basé sur plusieurs frameworks imposés.",
+      "project_link": "#",
+      "code_source": "#"
+    },
+    {
+      "date": "Octobre 2022 - Février 2023",
+      "titre": "Stuckwin - Jeu de stratégie",
+      "technologies": ["Java", "Machine Learning"],
+      "description": "Élaboration d'un jeu de plateau de stratégie à deux joueurs avec interface graphique. Programmation de plusieurs Intelligences Artificielles (min-max, Monte-Carlo, réseau neuronal avec algorithme génétique).",
+      "project_link": "#",
+      "code_source": "#"
+    }
+  ],
+  "experiences_professionnelles": [
+    {
+      "date": "2024 - 2025",
+      "titre": "Stage + alternance",
+      "entreprise": "Qualigest | Montbéliard",
+      "description": "Stage de 12 semaines suivit d'une année d'alternance en tant que développeur informatique. Création et maintenance d'un ERP."
+    },
+    {
+      "date": "(Janvier - Février) 2021",
+      "titre": "Stage ouvrier",
+      "entreprise": "Stellantis | Sochaux",
+      "description": "Stage ouvrier d'un mois en tant qu'opérateur ferrage sur une chaîne de production."
+    }
+  ]
+}
